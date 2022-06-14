@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chirag Patil
 - 👀 I’m interested in Deep Learning, Mathematics and interesting things
-- 🌱 I’m currently learning tensorflow.
+- 🌱 I’ve currently completed my Bachelor in Technology in Electronics and Communication from College of Engineering Pune.
 - 💞️ I’m looking to collaborate on interesting machine learning projects
 - 📫 How to reach me - patilcn18.extc@coep.ac.in
 
