@@ -3,6 +3,8 @@ i’ve worked on solving data science problems in healthcare and retail, data sc
 
 I started my developer journey in 2025, since then:
 > Vibe coded [ValuationPro](valuationpro.tech) to value publicly traded companies from US and India [$0 MRR]
-> building [FastCV](https://resumeai-swart.vercel.app/landing) 
+
+> building [FastCV](https://resumeai-swart.vercel.app/landing)
+
 > I also [sell](https://www.lordsocks.shop/) printed socks that may match your outdoor vibe
 
